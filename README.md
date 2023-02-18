@@ -8,6 +8,7 @@ It is based on node 18 and contains [pnpm](https://pnpm.io/).
 - Node 18 with NPM
 - pnpm
 - Git
+- OpenSSH
 
 ## Information
 
