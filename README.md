@@ -4,6 +4,11 @@ This image is based on the official [Node.js Docker image](https://hub.docker.co
 
 It is based on node 18 and contains [pnpm](https://pnpm.io/).
 
+## Included in the image
+- Node 18 with NPM
+- pnpm
+- Git
+
 ## Information
 
 This image will be deprecated once the offical node image has integrated pnpm or there is an alternative offical image.
